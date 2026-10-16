@@ -12,7 +12,9 @@ python -m pip install -r requirements.txt
 
 # Downloading the PredictiveGraphs point cloud dataset
 
-https://mega.nz/file/iGYgDBKB#UpkE228nfJge-_2SBamCqap4FxLAeo38ZEaGodPOlkE
+https://drive.google.com/file/d/1KwM8x9zny1HZXwjEwmueEMOsTbODiFL-/view?usp=drive_link
+
+Download and unzip the folder to a directory of your choice.
 
 # Running it
 
